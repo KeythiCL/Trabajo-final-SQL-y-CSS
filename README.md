@@ -1,0 +1,1 @@
+En este trabajo final, el objetivo fue crear una aplicación web básica que integraba una base de datos SQL con una interfaz de usuario desarrollada en HTML y CSS. Para ello, habiamos utilizado XAMPP como entorno de desarrollo local, que nos permitio ejecutar un servidor Apache y gestionar la base de datos MySQL.
